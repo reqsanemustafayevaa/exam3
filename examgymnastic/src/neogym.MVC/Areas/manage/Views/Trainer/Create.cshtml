@@ -1,0 +1,33 @@
+﻿
+@model Trainer
+<form asp-action="create" asp-controller="trainer" method="post"  enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name">Title</label>
+        <input asp-for="Name" class="form-control" placeholder="Enter Title">
+        <span asp-validation-for="Name" class="text-danger"></span>
+       </div>
+   
+        <div class="form-group">
+            <label asp-for="ImageFile">Image</label>
+            <input asp-for="ImageFile" class="form-control" placeholder="image">
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+        </div>
+         <div class="form-group">
+            <label asp-for="FbUrl">FbUrl</label>
+        <input asp-for="FbUrl" class="form-control" placeholder="image">
+        <span asp-validation-for="FbUrl" class="text-danger"></span>
+        </div>
+    <div class="form-group">
+        <label asp-for="InstaUrl">IstaUrl</label>
+        <input asp-for="InstaUrl" class="form-control" placeholder="image">
+        <span asp-validation-for="InstaUrl" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TwitterUrl">TwitterUrl</label>
+        <input asp-for="TwitterUrl" class="form-control" placeholder="image">
+        <span asp-validation-for="TwitterUrl" class="text-danger"></span>
+    </div>
+
+
+        <button type="submit" class="btn btn-primary">Create</button>
+</form>

@@ -1,0 +1,14 @@
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\bin\Debug\net6.0\neogym.core.deps.json
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\bin\Debug\net6.0\neogym.core.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\bin\Debug\net6.0\neogym.core.pdb
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\refint\neogym.core.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.pdb
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\ref\neogym.core.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\bin\Debug\net6.0\neogym.core.runtimeconfig.json
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.core\obj\Debug\net6.0\neogym.core.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\bin\Debug\net6.0\neogym.data.deps.json
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\bin\Debug\net6.0\neogym.data.runtimeconfig.json
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\bin\Debug\net6.0\neogym.data.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\bin\Debug\net6.0\neogym.data.pdb
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\bin\Debug\net6.0\neogym.core.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\bin\Debug\net6.0\neogym.core.pdb
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\refint\neogym.data.dll
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.pdb
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\neogym.data.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\exam3\examgymnastic\src\neogym.data\obj\Debug\net6.0\ref\neogym.data.dll

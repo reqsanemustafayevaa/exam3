@@ -61,6 +61,7 @@ namespace neogym.MVC.Areas.manage.Controllers
             }
             return View(existtrainer);
         }
+        [HttpPost]
         public async Task<IActionResult> Update(Trainer trainer)
         {
             
@@ -87,8 +88,37 @@ namespace neogym.MVC.Areas.manage.Controllers
                 return View();
             }
             return RedirectToAction("index");
+            
+           
+        }
+        public async Task<IActionResult> Delete(int id)
+        {
+            var existtrainer = await _trainerService.GetByIdAsync(id);
+            if (existtrainer == null)
+            {
+                throw new NullReferenceException();
+            }
+            return View(existtrainer);
+
 
         }
+        [HttpPost]
+        public async Task<IActionResult> Delete(Trainer trainer)
+        {
+            var existtrainer = await _trainerService.GetByIdAsync();
+            try
+            {
+                await _trainerService.DeleteAsync();
+            }
+            catch(NullReferenceException ex)
+            {
+
+            }
+            return RedirectToAction("index");
+        }
+        
+        
+
 
     }
 }

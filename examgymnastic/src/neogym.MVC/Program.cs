@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using neogym.business;
+using neogym.core.Models;
 using neogym.data;
 using neogym.data.DAL;
 
@@ -13,6 +15,11 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer("Server=DESKTOP-Q400V6O\\SQLEXPRESS;database=gymnastic;Trusted_Connection=True;");
 });
+builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+{
+    opt.Password.RequiredLength = 8;
+    opt.Password.RequireDigit = true;
+}).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
 var app = builder.Build();
 

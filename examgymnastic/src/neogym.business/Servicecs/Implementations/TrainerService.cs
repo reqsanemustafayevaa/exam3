@@ -30,7 +30,7 @@ namespace neogym.business.Servicecs.Implementations
             {
                 throw new NullReferenceException();
             }
-            if (trainer.ImageFile == null)
+            if (trainer.ImageFile != null)
             {
                 if (trainer.ImageFile.ContentType != "image/png" && trainer.ImageFile.ContentType != "image/jpeg")
                 {
@@ -41,8 +41,8 @@ namespace neogym.business.Servicecs.Implementations
                     throw new InvalidImageSizeException("ImageFile", "File must be lower than 2mb");
                 }
                
+                trainer.ImageUrl = trainer.ImageFile.SaveFile(_env.WebRootPath, "uploads/trainers");
             }
-            trainer.ImageUrl = trainer.ImageFile.SaveFile(_env.WebRootPath, "uploads/trainers");
             trainer.CreatedDate= DateTime.UtcNow;
             trainer.UpdatedDate = DateTime.UtcNow;
             trainer.IsDeleted=false;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tQFNDPzgTvm0/n6/yt48Q3ggiW+QCNM5kaKssob0HHU=",
+  "Hash": "dhRX/h5DpbC/+wQ8ISf9J+oOxM2uhNPs14TNkp/1u+c=",
   "Source": "neogym.MVC",
   "BasePath": "_content/neogym.MVC",
   "Mode": "Default",
@@ -32045,6 +32045,57 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendor\\jquery-easing\\jquery.easing.min.js"
     },
     {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\057b08ff-df77-4d46-b662-fc6308e3f9b0home-4-slider-1.jpg",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/057b08ff-df77-4d46-b662-fc6308e3f9b0home-4-slider-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\057b08ff-df77-4d46-b662-fc6308e3f9b0home-4-slider-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\0c865eb6-ed79-4054-83f7-819f9e53a036banner-5.jpg",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/0c865eb6-ed79-4054-83f7-819f9e53a036banner-5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\0c865eb6-ed79-4054-83f7-819f9e53a036banner-5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\2cf36162-e8d8-4c96-a7fc-80b9226931c5category-3.jpg",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/2cf36162-e8d8-4c96-a7fc-80b9226931c5category-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\2cf36162-e8d8-4c96-a7fc-80b9226931c5category-3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\6631ba3b-aa6a-48af-8689-6777ff1debe9diagram.drawio",
       "SourceId": "neogym.MVC",
       "SourceType": "Discovered",
@@ -32060,6 +32111,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\trainers\\6631ba3b-aa6a-48af-8689-6777ff1debe9diagram.drawio"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\729d9082-f115-4069-b5b3-8262e928c6a9home-4-slider-1.jpg",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/729d9082-f115-4069-b5b3-8262e928c6a9home-4-slider-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\729d9082-f115-4069-b5b3-8262e928c6a9home-4-slider-1.jpg"
     },
     {
       "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\8f8f57d1-1f8b-4735-a186-7ada18490585home-2-slider-1.jpg",
@@ -32079,6 +32147,23 @@
       "OriginalItemSpec": "wwwroot\\uploads\\trainers\\8f8f57d1-1f8b-4735-a186-7ada18490585home-2-slider-1.jpg"
     },
     {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\96b986a9-b916-4386-a3ed-9a1e3805348ahome-3-slider-1.jpg",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/96b986a9-b916-4386-a3ed-9a1e3805348ahome-3-slider-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\96b986a9-b916-4386-a3ed-9a1e3805348ahome-3-slider-1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\9d76c626-33da-4e1a-963c-dbb10bec77dbhome-2-slider-1.jpg",
       "SourceId": "neogym.MVC",
       "SourceType": "Discovered",
@@ -32096,6 +32181,23 @@
       "OriginalItemSpec": "wwwroot\\uploads\\trainers\\9d76c626-33da-4e1a-963c-dbb10bec77dbhome-2-slider-1.jpg"
     },
     {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\bb8a1a45-8b0b-4221-b84a-03b02141aa19task2.drawio",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/bb8a1a45-8b0b-4221-b84a-03b02141aa19task2.drawio",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\bb8a1a45-8b0b-4221-b84a-03b02141aa19task2.drawio"
+    },
+    {
       "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\cf55b880-4a4a-493b-8ffe-7a0e3d274877home-2-slider-1.jpg",
       "SourceId": "neogym.MVC",
       "SourceType": "Discovered",
@@ -32111,6 +32213,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\trainers\\cf55b880-4a4a-493b-8ffe-7a0e3d274877home-2-slider-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\uploads\\trainers\\d98ee4fc-9f6f-4ceb-b988-1dbafbd1b705home-4-slider-1.jpg",
+      "SourceId": "neogym.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\exam3\\examgymnastic\\src\\neogym.MVC\\wwwroot\\",
+      "BasePath": "_content/neogym.MVC",
+      "RelativePath": "uploads/trainers/d98ee4fc-9f6f-4ceb-b988-1dbafbd1b705home-4-slider-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\trainers\\d98ee4fc-9f6f-4ceb-b988-1dbafbd1b705home-4-slider-1.jpg"
     }
   ]
 }
